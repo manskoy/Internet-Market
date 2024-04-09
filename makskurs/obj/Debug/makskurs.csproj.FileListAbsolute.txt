@@ -1,0 +1,89 @@
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\bin\Debug\makskurs.exe.config
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\bin\Debug\makskurs.exe
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\bin\Debug\makskurs.pdb
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\bin\Debug\Guna.UI2.dll
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.login.resources
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.Properties.Resources.resources
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.reg.resources
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.csproj.CopyComplete
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.exe
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.pdb
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_админа.main.resources
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Polz.resources
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Postav.resources
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Items.resources
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Order.resources
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.userMain.resources
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.userOrder.resources
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.history.resources
+C:\Users\Никита\Desktop\КУРСАЧ\maksimKurshach\makskurs\makskurs\bin\Debug\QRCoder.dll
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\bin\Debug\makskurs.exe.config
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\bin\Debug\makskurs.exe
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\bin\Debug\makskurs.pdb
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\bin\Debug\QRCoder.dll
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.login.resources
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.Properties.Resources.resources
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.reg.resources
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Items.resources
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_админа.main.resources
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Order.resources
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Polz.resources
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Postav.resources
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.history.resources
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.userMain.resources
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.userOrder.resources
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.csproj.GenerateResource.cache
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.csproj.CopyComplete
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.exe
+C:\Users\User\Desktop\maksimKurshach\makskurs\makskurs\obj\Debug\makskurs.pdb
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\bin\Debug\makskurs.exe.config
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\bin\Debug\makskurs.exe
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\bin\Debug\makskurs.pdb
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\bin\Debug\Guna.UI2.dll
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\bin\Debug\QRCoder.dll
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.login.resources
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.Properties.Resources.resources
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.reg.resources
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Items.resources
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.формы_админа.main.resources
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Order.resources
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Polz.resources
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Postav.resources
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.history.resources
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.userMain.resources
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.userOrder.resources
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.csproj.CopyComplete
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.exe
+C:\Users\Никита\Desktop\ПЕРЕДЕЛАЙ\makskurs\makskurs\obj\Debug\makskurs.pdb
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\bin\Debug\makskurs.exe.config
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\bin\Debug\makskurs.exe
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\bin\Debug\makskurs.pdb
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\bin\Debug\QRCoder.dll
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.login.resources
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.Properties.Resources.resources
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.reg.resources
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Items.resources
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.формы_админа.main.resources
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Order.resources
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Polz.resources
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.формы_админа.Postav.resources
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.history.resources
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.userMain.resources
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.формы_клиента.userOrder.resources
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.csproj.CopyComplete
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.exe
+C:\Users\User\Desktop\ПЕРЕДЕЛАЙ — копия\makskurs\makskurs\obj\Debug\makskurs.pdb
